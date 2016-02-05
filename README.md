@@ -1,11 +1,11 @@
 # Galvanize Group Project Proposal
 
 ## Group Members
-Issac
-J.
-Josh
-David Adams
-Adam
+Issac,
+J.,
+Josh,
+David Adams,
+Adam,
 Derik
 
 ## Project Description
