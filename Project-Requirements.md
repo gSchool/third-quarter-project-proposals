@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# BrewsBrothers
+Repo for the BrewsBrothers project
+=======
 # Galvanize Group Project Proposal
 
 ## Group Members
@@ -24,3 +28,4 @@
 ## Feature list
 
 
+>>>>>>> 57b41d993309c0e75e0cb17cd608527517af1083
