@@ -6,7 +6,9 @@
 3. Pull request
 
 ## Group Members
-
+1. Carey
+2. Eddie
+3. Vinny
 
 ## Project Description
 
@@ -27,5 +29,3 @@
 
 
 ## Feature list
-
-
