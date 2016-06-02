@@ -7,8 +7,10 @@
 
 ## Group Members
 
-Henry
-Catherine
+Henry,
+
+Catherine,
+
 Will
 
 ## Project Description
