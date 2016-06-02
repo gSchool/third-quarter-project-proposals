@@ -6,6 +6,9 @@
 3. Pull request
 
 ## Group Members
+Alex S
+Max D
+Devany M
 
 
 ## Project Description
@@ -27,5 +30,3 @@
 
 
 ## Feature list
-
-
