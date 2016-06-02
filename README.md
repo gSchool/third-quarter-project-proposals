@@ -7,6 +7,7 @@
 
 ## Group Members
 
+"Austin" + "Sandy" + "Spencer" + "Kyle" === "Team Discovery Channel"  
 
 ## Project Description
 
@@ -27,5 +28,3 @@
 
 
 ## Feature list
-
-
