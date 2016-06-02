@@ -7,11 +7,9 @@
 
 ## Group Members
 
-Henry,
-
-Catherine,
-
-Will
+* Henry
+* Catherine
+* Will
 
 ## Project Description
 
