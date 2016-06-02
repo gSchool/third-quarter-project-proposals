@@ -6,7 +6,8 @@
 3. Pull request
 
 ## Group Members
-
++ Amy Conchie
++ Veronica Moreno
 
 ## Project Description
 
@@ -27,5 +28,3 @@
 
 
 ## Feature list
-
-
