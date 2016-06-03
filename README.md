@@ -11,6 +11,11 @@
 
 ## Project Description
 + Users explore a virtual garden environment in Unity3d.
++ Most of the environment is created using scripting in C#
+ + Cellular automata
+ + Genetic algorithms
+ + Procedural generation
+ + Fractal generation
 
 ## Who uses it?
 + Nature lovers
@@ -21,10 +26,14 @@
 + Grandmas
 
 ## What outputs do they need?
-
++ Observe forumulae present in nature
++ Be able to plant seeds
++ Watch environment change over time
++ Experience environment expansion/generation with procedural logic
 
 ## What inputs are needed to generate those outputs?
-
++ User must explore the environment
++ User must take action to plant seeds
 
 ## What technologies will you use that weren't covered in class?
 + Unity 5
@@ -52,6 +61,7 @@
 ### Reach Goal
 + Plants exhibit 'genetic diversity'
   + genetic algorithms
++ User can take 'photos' (screenshots) and save in a 'notebook'
   
 ### Dislocated-Shoulder-From-Reaching Goal
 + Plants have chance to 'genetically mutate' adjacent plants
