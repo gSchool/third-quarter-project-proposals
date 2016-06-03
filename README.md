@@ -38,10 +38,9 @@ Anyone in Seattle who wants to pursue their hobbies while being social and meeti
 ## What technologies will you use that weren't covered in class?
 - geofencing
 - React native
-- Python
-- Flask
-- MySQL
-- Webpac/Browserify
+- Express
+- PostgreSQL
+- Webpac/Browserify (might be able to do in command line?)
 
 
 ## What technologies do you plan to use?
