@@ -41,6 +41,7 @@ Anyone in Seattle who wants to pursue their hobbies while being social and meeti
 - Python
 - Flask
 - MySQL
+- Webpac/Browserify
 
 
 ## What technologies do you plan to use?
