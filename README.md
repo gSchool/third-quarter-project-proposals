@@ -36,19 +36,23 @@
 + AngularJS or React for site hosting project
 
 ## Feature list
+
 ### Base Goals
 + A randomly generated garden environment users can explore.
   + Perlin Noise
   + Procedural landmass generation
 + Users can observe plant life
 + Users can login to web site hosting project on webgl
+
 ### Next Stage Goals
 + Users can interact with plants
   + Removing
   + Planting
+
 ### Reach Goal
 + Plants exhibit 'genetic diversity'
   + genetic algorithms
+  
 ### Dislocated-Shoulder-From-Reaching Goal
 + Plants have chance to 'genetically mutate' adjacent plants
 + More elements in environment
