@@ -35,7 +35,6 @@ Java, Spring, Mongo or MySQL, AngularJS
   5. Link to menu
   6. Link to restaurant website
 2. Special Features
-  1. Map of restaurants (3rd party API)
+  1. Map of restaurants (3rd party API - Google Maps)
   2. 'Post a happy hour' function
   3. Authentication for restaurants to login
-
