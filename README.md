@@ -26,7 +26,7 @@ Their location and how far they are willing to go to eat.
 Ionic.
 
 ## What technologies do you plan to use?
-Ionic, JavaScript, Express, Postgres, OAuth.
+Ionic, JavaScript, Express, Knex, Postgres, OAuth.
 
 ## Feature list
 User Accounts
