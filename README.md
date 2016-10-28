@@ -31,5 +31,5 @@ Ionic, JavaScript, Express, Knex, Postgres, OAuth.
 ## Feature list
 User Accounts
 Geolocation
-Yelp API
+Yelp or four square API
 Saved restaurants
