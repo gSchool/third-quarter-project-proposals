@@ -22,7 +22,7 @@ Users will have access to a set of white cards, which is generated from the JSON
 Black and White cards- content generated from JSON Against Humanity API
 
 ## What technologies will you use that weren't covered in class?
-Swift & Objective C
+Swift, Objective C,& server side framework of Perfect.
 
 ## What technologies do you plan to use?
 Swift
