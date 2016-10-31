@@ -20,7 +20,7 @@ Any casual gamers.
 We would need instructions, landings, and buttons.
 
 ## What inputs are needed to generate those outputs?
-Users would interacte with our page and use predetermined key strokes to navigate through the games.
+Users would interacts with our page and use predetermined key strokes to navigate through the games.
 
 ## What technologies will you use that weren't covered in class?
 Django and Python
@@ -29,4 +29,4 @@ Django and Python
 HTML5, CSS, JavaScripts, Deck of cards API and Angular
 
 ## Feature list
-At least 3 unique games that the user can choose from. One puzzle, one slide-scrolling, and one top down adventure game. 
+At least 3 unique games that the user can choose from. One puzzle, one slide-scrolling, and one top down adventure game.
