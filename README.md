@@ -38,12 +38,13 @@ Meteor.js
 React + Redux
 
 ### Back End
-golang
+golang (potentially)
+mongoDB
 
 
 ## What technologies do you plan to use?
 
-PostgreSQL
+None
 
 
 ## Feature list
