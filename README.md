@@ -36,7 +36,7 @@ As a web-based application, access to the Internet will be necessary; players wi
 - MVP
   1. Remote trigger for delivery (or dispensing) of reward.
   2. Develop front-end condition to trigger delivery system through completing or winning challenge.
+  3. Using a coding interface, users will complete code challenges to trigger the reward.
 - Stretch goals
   1. Create physical environment (using Raspberry Pi) for direct, face-to-face, head-to-head user challenges.
   2. Develop additional tests to expand platform to service wider range of user interest.
-  
