@@ -5,27 +5,8 @@
   * Use valid markdown formatting!
 3. Pull request
 
-## Group Members
+Group: Brian Huber, Chris Hutchinson, Alex Bennett
 
-
-## Project Description
-
-
-## Who uses it?
-
-
-## What outputs do they need?
-
-
-## What inputs are needed to generate those outputs?
-
-
-## What technologies will you use that weren't covered in class?
-
-
-## What technologies do you plan to use?
-
-
-## Feature list
+https://docs.google.com/document/d/1u5jNHnarb2lBYIDo4_R35syVwU7btlrMycdNabym6AE/pub
 
 
