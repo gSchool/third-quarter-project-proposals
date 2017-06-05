@@ -34,17 +34,22 @@ The specific languages trying to be learned
 ## What technologies will you use that weren't covered in class?
 
 ### Front End
-Meteor.js
-React + Redux
+React
+
 
 ### Back End
-golang (potentially)
-mongoDB
+
+golang
+
 
 
 ## What technologies do you plan to use?
 
-None
+Angular1.6
+Bootstrap
+
+Node.js
+PostgreSQL
 
 
 ## Feature list
