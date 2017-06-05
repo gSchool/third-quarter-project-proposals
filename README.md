@@ -23,28 +23,37 @@ We will have 2 types of users. Students & Teachers
 
 ## What outputs do they need?
 
-Being connected to a chat app
+Being connected to a chat app where students are able to select which teacher
+they would like to start a chat with
 
 
 ## What inputs are needed to generate those outputs?
 
-The specific languages trying to be learned
+The specific languages trying to be learned by students
 
 
 ## What technologies will you use that weren't covered in class?
 
 ### Front End
-Meteor.js
-React + Redux
+
+React
+
 
 ### Back End
-golang (potentially)
-mongoDB
+golang
+
 
 
 ## What technologies do you plan to use?
 
-None
+Angular 1.6
+html
+css
+Bootstrap
+PostgreSQL
+
+React
+golang
 
 
 ## Feature list
