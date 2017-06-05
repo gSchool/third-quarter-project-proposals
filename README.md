@@ -35,7 +35,6 @@ The specific languages trying to be learned by students
 ## What technologies will you use that weren't covered in class?
 
 ### Front End
-
 React
 
 
