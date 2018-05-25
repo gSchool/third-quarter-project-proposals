@@ -15,7 +15,7 @@ IOS app similar in design and feel to Instagram, but for sharing links like redd
 People who enjoy sharing links to content on the web with other people. It's meant to provide a steady stream of websites and articles for people to read. Instagram is more about sharing images, and reddit is too clunky and big. I want simple.
 
 ## What outputs do they need?
-Post information, and user profile information. Message system.
+Post information, and user profile information. Message system. Sorting by Hash tags, and comments on a post.
 
 ## What inputs are needed to generate those outputs?
 people need to fill out post forms, and create user accounts. People can send messages to users that they follow.
